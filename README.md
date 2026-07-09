@@ -1,2 +1,2 @@
 # Git-Bootcamp
-Repository for Git Bootcamp.
+Update README for sample branch.
